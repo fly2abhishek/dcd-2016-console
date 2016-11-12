@@ -428,7 +428,7 @@ Drupal Console version 1.0.0-rc8
   yaml:update:key                   YAML फाइल में YAML कुंजी को बदले।
   yaml:update:value                 YAML फाइल में किसी विशेष कुंजी के निधि को अवगत करें।
 ```
-
+ <!-- .element: class="fragment" -->
 
 
 ## Using Drupal Console
@@ -538,7 +538,7 @@ drupal site:install
 
  Starting Drupal 8 install process
  ```
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragments" -->
 This will get you drupal with drupal console.
 
 
@@ -552,6 +552,36 @@ We will see a demo of how to generate
 * A controller
 * A service
 * A rest resource
+
+
+## Generate Module
+
+
+<video data-autoplay src="video/module.mp4"></video>
+
+
+## Generate Form 
+
+
+<video data-autoplay src="video/form.mp4"></video>
+
+
+## Generate Controller 
+
+
+<video data-autoplay src="video/controller.mp4"></video>
+
+
+## Generate Service 
+
+
+<video data-autoplay src="video/service.mp4"></video>
+
+
+## Generate REST resource 
+
+
+<video data-autoplay src="video/rest.mp4"></video>
 
 
 
